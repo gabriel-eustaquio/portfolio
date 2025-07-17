@@ -1,5 +1,5 @@
 import photo from '../../assets/photo.png';
-import curriculo from '../../assets/gabrieleustaquio.pdf';
+import curriculo from '../../assets/gabrieleustaquiocurriculo.pdf';
 
 function About() {
   return (
