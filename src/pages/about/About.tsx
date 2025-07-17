@@ -52,7 +52,11 @@ function About() {
           possuo conhecimento em tecnologias como: HTML, CSS, JavaScript,
           TypeScript, React.js, Node.js, Styled-components, Shadcn UI e consumo
           de APIs Rest. Formado em Ciência da Computação e cursando Front-end na
-          Origamid.
+          Origamid. Sempre tive curiosidade em manutenção de computadores e com
+          isso montei meu próprio computador peça por peça e sempre que tenho
+          algum problema consigo resolver na maioria das vezes. Gosto bastante
+          de segurança da informação, em 2020 conclui cursos sobre esta área.
+          Atualmente cursando Desenvolvimento Full Stack.
         </p>
       </section>
     </>
