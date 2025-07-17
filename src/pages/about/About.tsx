@@ -56,7 +56,9 @@ function About() {
           isso montei meu próprio computador peça por peça e sempre que tenho
           algum problema consigo resolver na maioria das vezes. Gosto bastante
           de segurança da informação, em 2020 conclui cursos sobre esta área.
-          Atualmente cursando Desenvolvimento Full Stack.
+          Atualmente cursando Desenvolvimento Full Stack. Tenho conhecimento com
+          sistemas tanto Windows quanto Linux (tenho dual boot no meu
+          computador), otimizo bastante minhas tarefas.
         </p>
       </section>
     </>
