@@ -9,7 +9,7 @@ function About() {
           <h1 className="md:text-4xl text-2xl font-bold">
             Olá, eu sou o{' '}
             <span className="text-violet-500 font-bold block">
-              Gabriel Eustaquio ;)
+              Gabriel Eustaquio ;)!
             </span>
           </h1>
           <p className="tracking-wider uppercase text-neutral-400">
